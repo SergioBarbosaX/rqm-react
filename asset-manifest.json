@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rqm-react/static/css/main.c5a9914e.chunk.css",
+    "main.js": "/rqm-react/static/js/main.dc850d1c.chunk.js",
+    "main.js.map": "/rqm-react/static/js/main.dc850d1c.chunk.js.map",
+    "runtime~main.js": "/rqm-react/static/js/runtime~main.ad2bafa8.js",
+    "runtime~main.js.map": "/rqm-react/static/js/runtime~main.ad2bafa8.js.map",
+    "static/js/2.7cddf10a.chunk.js": "/rqm-react/static/js/2.7cddf10a.chunk.js",
+    "static/js/2.7cddf10a.chunk.js.map": "/rqm-react/static/js/2.7cddf10a.chunk.js.map",
+    "index.html": "/rqm-react/index.html",
+    "precache-manifest.c664e9d45ac3792b81e53cbecd13d376.js": "/rqm-react/precache-manifest.c664e9d45ac3792b81e53cbecd13d376.js",
+    "service-worker.js": "/rqm-react/service-worker.js",
+    "static/css/main.c5a9914e.chunk.css.map": "/rqm-react/static/css/main.c5a9914e.chunk.css.map"
+  }
+}
